@@ -29,7 +29,7 @@ Element是个不错的UI组件，很喜欢这种MaterialUI。
 ---
 
 ```bash
-git clone https://github.com/shuiRong/VueCnodeJS.git
+git clone https://github.com/Yphfeng/VueCnodeJS.git
 cd VueCnodeJS
 npm install
 npm run dev
